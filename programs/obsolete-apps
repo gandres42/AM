@@ -94,7 +94,6 @@ botframework-emulator 2024
 bottlebats 2018
 boxxy 2024
 brainverse 2018
-brainwaves 2021
 bread 2022
 bscanfftwebcam 2020
 bts-ce-lite 2020
@@ -215,7 +214,6 @@ ecency-surfer 2024
 edex-ui 2021
 eget 2024
 ehdev-shell 2018
-eka2l1 2024
 eksplode.re 2020
 elcalc 2019
 eldumper 2019
@@ -392,7 +390,6 @@ inboxer 2019
 infection-monkey 2023
 infinitex 2018
 insight 2022
-insomnium 2024
 instead 2024
 intiface 2022
 invoice-generator 2018
@@ -522,7 +519,6 @@ moolticute 2024
 moonlight 2024
 moonplayer 2023
 moose 2020
-motrix 2023
 movie-monad 2018
 mp3-tagger 2022
 mp4grep 2023
@@ -807,7 +803,6 @@ slogidex 2023
 smartservogui 2018
 smath-studio 2021
 smf-dsp 2021
-smuview 2023
 snake-js 2020
 snapclear 2024
 snapshot-slider 2022
@@ -816,7 +811,6 @@ snippetstore 2019
 snomcontrol 2019
 snowball 2022
 soapy-sdr 2020
-software-challenge-gui 2020
 solars 2023
 solarwallet 2022
 sonixd 2023
@@ -825,7 +819,6 @@ sourcetrail 2021
 sozi 2024
 spacewars 2020
 spark-wallet 2021
-speaky-miniplayer 2020
 speek 2023
 sphia 2024
 spicy-launcher 2023
@@ -835,11 +828,9 @@ spyglass 2024
 squirrel-disk 2023
 srb2k 2023
 stash-electron 2023
-station 2024
 statuspilatus 2019
 steam-tui 2024
 steamcad 2020
-steem-messenger 2018
 stockstalk 2018
 stoplight 2019
 storadit 2022
@@ -852,7 +843,6 @@ studymd 2018
 stunt-car-remake 2020
 subillmanager 2022
 substrate-ide 2020
-subsurface 2023
 subtitle-composer 2022
 subtitler 2021
 sultanpos 2024
@@ -862,7 +852,6 @@ superpaper 2022
 supertag 2021
 svelte-electron 2022
 swaglyrics 2020
-swc-minecraft-launcher 2021
 swiftnessx 2019
 swifty 2023
 swradio 2024
@@ -879,9 +868,7 @@ taskizer 2020
 tastee-ui 2018
 tb 2024
 tc 2020
-teledrive 2020
 tere 2024
-terminalos-sim 2024
 teslacam-browser 2020
 textnote 2023
 textosaurus 2019
@@ -906,14 +893,10 @@ todorant 2021
 todorust 2022
 toerings 2023
 toipe 2024
-tomatox 2021
 tonuino-toolbox 2020
 torrenttools 2021
 toru 2024
-translatium 2022
 transmissionic 2023
-triagem-touch 2024
-trinity-desktop 2021
 tt 2020
 tts-now 2022
 ttth 2021
@@ -921,12 +904,10 @@ ttyper 2024
 tumblr-downloader-gui 2020
 tumblr-scraper 2018
 tunepack 2019
-tusk 2019
 tuxplorer 2024
 twake 2022
 tweaksophia 2019
 tweet-tray 2019
-twetter 2019
 twitch-wrapper 2019
 typioca 2024
 ubiquity 2023
@@ -934,12 +915,9 @@ uivonim 2021
 ultrascreen 2022
 uncov 2022
 unetbootin 2021
-unishellect 2022
 unofficial-zalo 2019
 unreel 2018
 unveil 2020
-unyo 2024
-updatedeployqt 2019
 upgit 2024
 upnotes 2022
 uwufetch 2023
@@ -964,25 +942,18 @@ vk-music-fs 2021
 volaris 2024
 vpaint 2020
 vue-calc 2018
-vuerd 2019
 vup 2023
 w2vgrep 2024
-walc 2024
 wallettech 2019
 wasistlos 2024
 watchflower 2024
-watchit 2024
-weatherdump 2019
 webamp 2018
 webdesktop 2019
 webkitty 2023
 webrecorder 2020
 weektodo 2024
-westeroscraftlauncher 2020
 wethr 2021
 wewechat 2018
-wexond 2021
-wezterm 2024
 whatstron 2024
 whirlpool-gui 2020
 whu-library-seat 2020
@@ -990,7 +961,6 @@ wick-editor 2020
 windows2usb 2022
 wine32-deploy 2021
 wishdemo 2019
-wives 2023
 wiznoteplus 2023
 wkp 2022
 wled-gui 2021
@@ -1000,10 +970,7 @@ wootility 2024
 wooting-analog-midi 2022
 wootomation 2024
 wrapbox 2019
-wsjtz 2023
-wsocks 2019
 wxmaxima 2023
-wxmedit 2021
 x-loc 2019
 x-pixiv 2023
 xapkdetector 2022
@@ -1034,6 +1001,5 @@ zenroomstudio 2018
 zfxtop 2023
 znax 2023
 zograscope 2023
-zx-poly 2024
 zxinfo-file-browser 2024
 zy-player 2022
